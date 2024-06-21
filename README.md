@@ -69,5 +69,7 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 4. Run the project using `python GUI.py`.
 
 ## Author
-- [Chandrababu Namani](https://github.com/Chandrababu-Namani)
+- [Chandrababu Namani]
+- [Ranjith T]
+
 
